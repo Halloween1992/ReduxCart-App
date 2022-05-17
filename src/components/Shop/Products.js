@@ -4,15 +4,17 @@ import classes from "./Products.module.css";
 const DUMMY_PRODUCTS = [
   {
     id: "p1",
-    tilte: "My first Book",
-    description: "My first book I have ever read.",
-    price: 6,
+    tilte: "12 Rules for life",
+    description:
+      "An Antidote to Chaos is a 2018 self-help book by the Canadian clinical psychologist Jordan Peterson.",
+    price: 49.99,
   },
   {
     id: "p2",
-    tilte: "My second Book",
-    description: "My second book I have ever read.",
-    price: 12,
+    tilte: "The richest man in babylon",
+    description:
+      "a by George S. Clason that dispenses financial advice through a collection of parables set 4,000 years ago in ancient Babylon",
+    price: 85.3,
   },
 ];
 
